@@ -1,2 +1,2 @@
 # Simple-Bootloader
-A simple asm Hellow eorld boortloader
+A simple asm Hellow world boortloader
